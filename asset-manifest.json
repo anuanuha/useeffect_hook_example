@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/useeffect_hook_example/static/css/main.f855e6bc.css",
+    "main.js": "/useeffect_hook_example/static/js/main.5c5712e8.js",
+    "index.html": "/useeffect_hook_example/index.html",
+    "main.f855e6bc.css.map": "/useeffect_hook_example/static/css/main.f855e6bc.css.map",
+    "main.5c5712e8.js.map": "/useeffect_hook_example/static/js/main.5c5712e8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.5c5712e8.js"
+  ]
+}
